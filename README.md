@@ -1,8 +1,9 @@
 ### Thank u for visiting my Github👍
 
-I'm focused on back-end  😊😊
-I'm studying for being talented person than just getting a job.
-I want to make something that change the world more comfortable!🌍
+<h1>What I focusing on</h>
+I'm focused on back-end😊😊<br>
+I'm studying for being talented person than just getting a job.<br>
+I want to make something that change the world more comfortable!🌍<br>
 
 I'm studying Servlet&JSP and Spring5 now for make Digital Diary Community📚
 <!--
