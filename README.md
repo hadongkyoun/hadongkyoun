@@ -21,5 +21,7 @@ Here are some ideas to get you started:
 -->
 
 <label>This is my Instagram<br><a href="https://www.instagram.com/dev._.had/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></label>
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadongkyoun&show_icons=true&theme=radical)
+<br><br>
+
+<label>This is my Stat<br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadongkyoun&show_icons=true&theme=radical)
+</label>
