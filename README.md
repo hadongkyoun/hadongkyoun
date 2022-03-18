@@ -4,7 +4,9 @@
 I'm focused on back-end😊😊<br>
 I'm studying for being talented person than just getting a job.<br>
 I want to make something that change the world more comfortable!🌍<br>
-I'm studying Servlet&JSP and Spring5 now for make Digital Diary Community📚
+I'm studying Servlet&JSP and Spring5 now for make Digital Diary Community
+
+
 <!--
 **hadongkyoun/hadongkyoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
