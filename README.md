@@ -1,4 +1,9 @@
-### Hi there 👋
+### Thank u for visiting my Github
+
+I'm focused on back-end  😊😊
+
+I'm studying for being talented person than just getting a job.
+
 
 <!--
 **hadongkyoun/hadongkyoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
