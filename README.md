@@ -1,8 +1,10 @@
 ### <h1>Thank u for visiting my Github👍</h1>
 
-<h2>My Object</h2>
+<h2>My Value/h2>
 I'm focused on back-end😊😊<br>
-I'm studying for being talented person than just getting a job.<br>
+I'm always studying for being talented person than just getting a job.<br>
+  
+<h2>My Object</h2>
 I want to make something that change the world more comfortable!🌍<br>
 I'm studying Servlet&JSP and Spring5 now for make Digital Diary Community
 
