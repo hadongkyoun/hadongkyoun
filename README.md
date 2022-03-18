@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>My SNS🌐�</h2>
+<h2>My SNS🌐</h2>
 <label>Diary:<a href="https://www.instagram.com/dev._.had/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-  square&logo=Instagram&logoColor=white"/></a></label>
 
 <h2>My Tools🖋️</h2>
