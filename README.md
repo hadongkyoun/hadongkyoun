@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<label>Instagram:  <a href="https://www.instagram.com/dev._.had/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-    square&logo=Instagram&logoColor=white"/></a></label>
+<label>Diary:  <a href="https://www.instagram.com/dev._.had/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-    square&logo=Instagram&logoColor=white"/></a></label>
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadongkyoun&show_icons=true&theme=radical)
