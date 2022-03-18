@@ -1,6 +1,6 @@
-### Thank u for visiting my Github👍
+### <h1>Thank u for visiting my Github👍</h1>
 
-<h1>What I focusing on</h1>
+<h2>What I focusing on</h2>
 I'm focused on back-end😊😊<br>
 I'm studying for being talented person than just getting a job.<br>
 I want to make something that change the world more comfortable!🌍<br>
