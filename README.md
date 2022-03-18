@@ -1,6 +1,6 @@
 ### <h1>Thank u for visiting my Github👍</h1>
 
-<h2>My Value/h2>
+<h2>My Value</h2>
 I'm focused on back-end😊😊<br>
 I'm always studying for being talented person than just getting a job.<br>
   
