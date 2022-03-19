@@ -1,12 +1,12 @@
 # Thank u for visiting my Github👍
 
 ## My Value💪
->I'm focused on `back-end`😊😊<br>
+I'm focused on `back-end`😊😊<br>
 I'm always studying `for being talented person` than just getting a job.<br>
   
 ## My Object💻
 
->I'm studying `Servlet&JSP` and `Spring5` now for make Digital Library
+I'm studying `Servlet&JSP` and `Spring5` now for make Digital Library
 
 
 <!--
