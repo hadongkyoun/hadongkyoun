@@ -1,13 +1,8 @@
-# Thank u for visiting my Github👍
+# Ha Dongkyoun👍
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadongkyoun&show_icons=true&theme=radical)
 
-## My Value💪
-I'm focused on `back-end`😊😊<br>
-I'm always studying `for being talented person` than just getting a job.<br>
-  
-## My Object💻
-
-I'm studying `Servlet&JSP` and `Spring5` now for make Digital Library
-
+# <a href="https://hadongkyoun.github.io/" target="_blank" ><img src="https://img.shields.io/badge/MyBlog-E60012?style=flat-square&logo=GitHub&logoColor=white">
+</a>
 
 <!--
 **hadongkyoun/hadongkyoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,16 +18,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## My SNS🌐
 
-<a href="https://www.instagram.com/dev._.had/" target="_blank" ><img src="https://img.shields.io/badge/dev._.had-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://hadongkyoun.github.io/" target="_blank" ><img src="https://img.shields.io/badge/GitBlog-222222?style=flat-square&logo=GitHub&logoColor=white"/></a>
-
-
-## My Tools 🖋️
+## 💪My Skills
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
-
-## My Stat
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadongkyoun&show_icons=true&theme=radical)
+## 🌐Contacts
+<a href="https://www.instagram.com/dev._.had/" target="_blank" ><img src="https://img.shields.io/badge/dev._.had-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
+<a href="mailto:gkehdrbs36@naver.com" target="_blank" ><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"></a>
+<a href="mailto:gkehdrbs36@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"></a>
