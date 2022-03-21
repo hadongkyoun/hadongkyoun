@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -->
 ## My SNS🌐
 
-<a href="https://www.instagram.com/dev._.had/" target="_blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://hadongkyoun.github.io/" target="_blank" ><img src="https://img.shields.io/badge/Blogger-181717?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://www.instagram.com/dev._.had/" target="_blank" ><img src="https://img.shields.io/badge/dev._.had-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://hadongkyoun.github.io/" target="_blank" ><img src="https://img.shields.io/badge/GitBlog-222222?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
 
 ## My Tools 🖋️
