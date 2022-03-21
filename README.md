@@ -24,11 +24,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## My SNS🌐
-<a href="https://www.instagram.com/dev._.had/" target="_blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=dev._.had&logoColor=white"/></a> <a href="https://hadongkyoun.github.io/" target="_blank" ><img src="https://img.shields.io/badge/GitBlog-181717?style=flat-square&logo=Blogger&logoColor=white"/></a>
+
+<a href="https://www.instagram.com/dev._.had/" target="_blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://hadongkyoun.github.io/" target="_blank" ><img src="https://img.shields.io/badge/Blogger-181717?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
 
 ## My Tools 🖋️
+
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+
 
 ## My Stat
 
