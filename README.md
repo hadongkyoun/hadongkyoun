@@ -6,6 +6,7 @@
 ## 💪My Skills
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
 
 ## 🌐Contacts
 <a href="https://www.instagram.com/dev._.had/" target="_blank" ><img src="https://img.shields.io/badge/dev._.had-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
